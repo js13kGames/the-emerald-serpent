@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - adventure
 directors_cut: https://alexswan.io/js13k-2024
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
